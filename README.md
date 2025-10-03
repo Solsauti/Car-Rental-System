@@ -1,4 +1,4 @@
-# Person & Student Class Program
+# OOP 2 Concepts Class Program
 
 This project demonstrates the use of Object-Oriented Programming (OOP) concepts in Java.
 
@@ -14,5 +14,5 @@ This project demonstrates the use of Object-Oriented Programming (OOP) concepts 
    java Main
 
 ## Author
-Your Name
+Steve Kimani
 Business Information Technology Student
